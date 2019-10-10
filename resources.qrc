@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="/plugins/ygeia">
+    <file>icons/add.png</file>
+    <file>icons/remove.png</file>
+    <file>icons/product-sales-report-icon.png</file>
+    <file>icons/icon.png</file>
+    <file>icons/map_add.png</file>
+    <file>icons/icon3.png</file>
+    <file>icons/1394568131_pdf.png</file>
+    <file>icons/1394568050_Zoom.png</file>
+    <file>icons/1394568050_Zoom_oria.png</file>
+    <file>icons/App-virussafe-injection-icon.png</file>
+    <file>icons/database-arrow-down-icon.png</file>
+    <file>icons/1-Normal-Train-icon.png</file>
+    <file>icons/setting-icon.png</file>
+    <file>icons/Filter-List-icon.png</file>
+    <file>icons/red_cross.png</file>
+    <file>icons/1412622185_first_aid_kit.png</file>
+    <file>icons/1412622284_bullet_go.png</file>
+    <file>icons/document-add-icon.png</file>
+    <file>icons/qgis-icon-60x60.png</file>
+    <file>icons/Line-Chart-icon.png</file>
+    <file>icons/Progressbar.gif</file>
+  </qresource>
+</RCC>
